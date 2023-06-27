@@ -1,0 +1,29 @@
+{
+    "captains": [
+        {
+            "id": 1,
+            "name": "Furkan Taner Gül",
+            "role": "captain",
+            "linkedin": "https://www.instagram.com/ielrobotics/",
+            "pfp": "/furkan.png"
+        }
+    ],
+    "members": [
+        {
+            "id": 1,
+            "name": "Ahmet Gündoğdu",
+            "role": "member",
+            "linkedin":"https://www.instagram.com/ielrobotics/",
+            "pfp": "/ahmet.jpg"
+        }
+    ],
+    "alumnis": [
+        {
+            "id": 1,
+            "name": "Oğuzhan Özkır",
+            "role": "alumni",
+            "linkedin":"https://www.instagram.com/ielrobotics/",
+            "pfp": "/oguzhan.jpeg"
+        }
+    ]
+}
